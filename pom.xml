@@ -46,10 +46,9 @@
       </plugin>
     <!-- Build an executable WAR -->  
       <plugin>
-        <!-- Build an executable JAR -->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-War-plugin</artifactId>
-        <version>3.2.0</version>
+        <version>3.2.2</version>
        </plugin>
    <!-- Build an executable WAR ENDS -->    
       <plugin>
